@@ -1,0 +1,119 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #E5E5E5;
+}
+header{
+    background-color: #562EFF;
+}
+.header_nav, .container{
+    max-width: 870px;
+}
+.navbar-brand{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+.navbar-brand img{
+    width: 41px;
+    height: 51px;
+    margin-right: 10px;
+}
+.nav-link img{
+    width: 51px;
+    height: 51px;
+}
+/* TOP PLAYER*/
+.purple_text{
+    color: #562EFF;
+}
+.top_player h3, .latest_course h3{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+}
+.top_player, .top_blog, .latest_course{
+    background-color: white;
+}
+.player img{
+    width: 56px;
+    height: 56px;
+}
+/* TOP BLOG */
+.blog_img{
+   width: 50%;
+}
+.blog_details{
+    width: 50%;
+}
+.blog_img img{
+    width: 100%;
+    height: auto;
+}
+.blog_details h4{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 34px;
+    color: #000000;
+}
+
+.blog_details p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #9F9F9F;
+}
+/* LATEST COURSE */
+.course > img{
+    width: 224px;
+    height: 104px;
+}
+.course h4{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20.0336px;
+    line-height: 23px;
+    color: #1E1E1E;
+}
+.course p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14.6913px;
+    line-height: 17px;
+}
+.red_text{
+    color: #ED6B4F;
+}
+.course_star span{
+    color: rgba(174, 174, 174, .25);
+}
+.course_star .checked{
+    color: #FFC014;
+}
+.course-time{
+    background: #FFE4E8;
+    border-radius: 14.6913px;
+}
+.course-time img{
+    width: 20px;
+    height: 20px;
+    float: left;
+}
+.course-time p{
+    float: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14.6913px;
+    line-height: 20px;
+}
+.course_star p{
+    color: #A2A2A2;
+}
